@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/samilike3/git-test/issues"
   },
-  "homepage": "https://github.com/samilike3/git-test#readme"
+  "homepage": "https://github.com/samilike3/git-test#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {}
 }
